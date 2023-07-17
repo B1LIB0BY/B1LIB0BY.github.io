@@ -18,9 +18,9 @@ timezone: Asia/Jerusalem
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Yuval's Blog" # the main title
+title: "Yuval Sandoval" # the main title
 
-tagline: lol # it will display as the sub-title
+tagline: 16 Years old, Cyber Security Enthusaist And Linux Enjoyer🙂  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My Personal Blog's Website.
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Yuval
-  email: example@domain.com # change to your email address
+  email: yuvalsan12345@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/YuvalBili # change to your twitter homepage
