@@ -1,0 +1,64 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://b1lib0by.github.io/</id>
+  <title>Yuval Sandoval</title>
+  <subtitle>My Personal Blog's Website.</subtitle>
+  <updated>2023-07-18T00:15:30+03:00</updated>
+  <author>
+    <name>Yuval</name>
+    <uri>https://b1lib0by.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://b1lib0by.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://b1lib0by.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Yuval </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Malware Analysis</title>
+    <link href="https://b1lib0by.github.io/posts/malware/" rel="alternate" type="text/html" title="Malware Analysis" />
+    <published>2023-07-17T06:52:00+03:00</published>
+  
+    <updated>2023-07-17T06:52:00+03:00</updated>
+  
+    <id>https://b1lib0by.github.io/posts/malware/</id>
+    <content src="https://b1lib0by.github.io/posts/malware/" />
+    <author>
+      <name>Yuval</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Malware" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      CVE-2017-11882 - Getting Our Hands Dirty With Some Malware.
+
+Intro
+
+I have always liked to research things and understand the small details, When I was 12 my brother showed me the world of programming and from there I continued to the Cyber Security world and in particular, Investigate Malware and CTF’s.
+Today we will investigate and try to understand a little more on what exactly is happening ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
